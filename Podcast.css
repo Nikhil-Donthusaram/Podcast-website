@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 45vh;
+    margin: 16px;
+    padding: 28px;
+}
+
+.podcasts-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 32px;
+}
+
+.box1 {
+    margin-left: 16px;
+}
+
+.box-image {
+    height: 110px;
+    width: 140px;
+}
+
+.box-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.box-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.margin {
+    margin: 22px;
+}
+
+.main-container {
+    background-color: #151765;
+    padding: 16px;
+}
+
+.text-container {
+    margin-left: 10px;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.paragraph {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.containers {
+    background-color: #ffffff;
+    padding: 16px;
+}
+
+.text-containers {
+    margin-left: 10px;
+}
+
+.next-heading {
+    color: #151765;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.next-paragraph {
+    color: #5a7184;
+    font-size: 14px;
+    font-weight: 200;
+    font-family: "Roboto";
+}
+
+.next-paragraph2 {
+    color: #5a7184;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.button {
+    background-color: #151765;
+    height: 25px;
+    width: 65px;
+    color: #ffffff;
+    border-radius: 16px;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 300;
+    margin-left: 270px;
+    margin-bottom: 30px;
+    border-width: 0px;
+}
